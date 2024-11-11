@@ -28,7 +28,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="p-[10px] hover:text-themeBlue transition-all duration-200"
         >
-          <div>Designed by Brittany Chiang & Built by Muhammad Hamza</div>
+          <div>Built by Muhammad Hamza</div>
         </a>
       </div>
     </footer>
